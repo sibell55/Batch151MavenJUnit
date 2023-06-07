@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="972bed24-dfeb-4e36-a7a8-54faafaad630" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day06_Maven/C01_MavenIlkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/myPractice/C01_TekrarTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/myPractice/C02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day07_Maven_Junit/C01_MavenClassWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day07_Maven_Junit/C02_JunitİlkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day07_Maven_Junit/C03_BeforeAfter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_Junit/C01_Before_After.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_Junit/C02_BeforeClassAfterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_Junit/C03_BeforeClassAfterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_Junit/C04_CheckBoxClassWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_Junit/C05_Assortions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/day06_Maven/C01_MavenIlkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/day06_Maven/C01_MavenIlkTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,34 +47,106 @@
     </option>
   </component>
   <component name="ProjectId" id="2Qf7NsFleXNQBwnwAA9UCZcYAKX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="C01_MavenIlkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="techproed.day06_Maven.C01_MavenIlkTest" />
+}</component>
+  <component name="RunManager" selected="JUnit.C05_Assortions.test03">
+    <configuration name="C04_CheckBoxClassWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch151MavenJUnit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="techproed.day06_Maven.*" />
+          <option name="PATTERN" value="techproed.day08_Junit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="techproed.day08_Junit" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day08_Junit.C04_CheckBoxClassWord" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_Assortions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch151MavenJUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.day08_Junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.day08_Junit" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day08_Junit.C05_Assortions" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_Assortions.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch151MavenJUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.day08_Junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.day08_Junit" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day08_Junit.C05_Assortions" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_Assortions.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch151MavenJUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.day08_Junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.day08_Junit" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day08_Junit.C05_Assortions" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C05_Assortions.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch151MavenJUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.day08_Junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.day08_Junit" />
+      <option name="MAIN_CLASS_NAME" value="techproed.day08_Junit.C05_Assortions" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C01_MavenIlkTest" />
+        <item itemvalue="JUnit.C05_Assortions.test03" />
+        <item itemvalue="JUnit.C05_Assortions" />
+        <item itemvalue="JUnit.C05_Assortions.test04" />
+        <item itemvalue="JUnit.C05_Assortions.test01" />
+        <item itemvalue="JUnit.C04_CheckBoxClassWord" />
       </list>
     </recent_temporary>
   </component>
@@ -79,5 +160,16 @@
       <updated>1685732744909</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

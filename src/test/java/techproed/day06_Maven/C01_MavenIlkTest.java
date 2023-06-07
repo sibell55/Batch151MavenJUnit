@@ -11,6 +11,15 @@ import java.time.Duration;
 import java.util.List;
 
 public class C01_MavenIlkTest {
+    /*
+     1)-Maven proj. bizi jar doayalarından kurtardı.
+       -Selenium'un ilkel halinden kurtardı.
+       -Maven'in kalbi olan pom.xml dosyasında çalışılır.
+       -Mvn reporsitery den kopyalayıp kendi pom.xml yapıştırdık.
+       - Selenium.java.reporsitery ve webdrivermanager-bonigarcia yapıştırıldı
+     2)- Systemsetproparty den kurtardı
+     */
+
     public static void main(String[] args) {
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
