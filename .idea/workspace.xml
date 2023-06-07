@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="972bed24-dfeb-4e36-a7a8-54faafaad630" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/myPractice/C01_TekrarTesti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/myPractice/C02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day07_Maven_Junit/C01_MavenClassWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day07_Maven_Junit/C02_JunitİlkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day07_Maven_Junit/C03_BeforeAfter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_Junit/C01_Before_After.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_Junit/C02_BeforeClassAfterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_Junit/C03_BeforeClassAfterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_Junit/C04_CheckBoxClassWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/day08_Junit/C05_Assortions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/day06_Maven/C01_MavenIlkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/day06_Maven/C01_MavenIlkTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="972bed24-dfeb-4e36-a7a8-54faafaad630" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
